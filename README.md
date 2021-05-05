@@ -1,2 +1,1 @@
-# TS2
-continuation of ts1
+# TowerSiege-1
